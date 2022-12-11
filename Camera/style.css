@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.btn-print{
+    font-size: 18px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    color: #000000;
+    box-shadow: 2px 2px 10px 2px #000000;
+    cursor: pointer;
+    transition: all 400ms ease;
+}
+
+.btn-print:hover{
+    color: #fff;
+    background-color: #000;
+}
